@@ -1,7 +1,6 @@
-# Django MySQL Scraper 🐍
+# Django MySQL Scraper
 
-![Django Logo](https://www.djangoproject.com/m/img/logos/django-logo-negative.png)  
-![MySQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
+![Techs](https://miro.medium.com/v2/resize:fit:1400/1*wIp4OUfFfhG2YY8O40mcgw.png)
 
 ## Overview 🌟
 
